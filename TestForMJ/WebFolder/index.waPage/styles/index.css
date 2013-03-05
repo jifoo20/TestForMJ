@@ -3,6 +3,26 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#checkbox1 {
+	 width: 16px;
+	 height: 16px;
+	 top: 173px;
+	 left: 832px;
+	
+	 position: absolute;
+	 
+}
+
+#label1 {
+	 width: 31px;
+	 height: 16px;
+	 top: 173px;
+	 left: 853px;
+	
+	 position: absolute;
+	 
+}
+
 #button1 {
 	 width: 92px;
 	 height: 22px;
@@ -16,8 +36,8 @@
 #container1 {
 	 width: 294px;
 	 height: 211px;
-	 top: 499px;
-	 left: 514px;
+	 top: 478px;
+	 left: 209px;
 	
 	 position: absolute;
 	 
@@ -36,8 +56,8 @@
 #dataGrid1 {
 	 width: 300px;
 	 height: 300px;
-	 top: 114px;
-	 left: 242px;
+	 top: 92px;
+	 left: 387px;
 	
 	 position: absolute;
 	 
